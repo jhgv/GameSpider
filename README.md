@@ -1,4 +1,4 @@
-# GameSpider
+# SpyderGamer
 A Web Crawler implemented in Python for study purpose
 
 ## Running
